@@ -1,10 +1,11 @@
-package com.example.cryptocurrencyapp.presentation.coin_list
+package com.example.cryptocurrencyapp.presentation.coin_details
 
 import com.example.cryptocurrencyapp.domain.model.Coin
+import com.example.cryptocurrencyapp.domain.model.CoinDetail
 
-data class CoinListState(
+data class CoinDetailState(
     val isLoading : Boolean = false,
-    val coins : List<Coin> = emptyList(),
+    val coin : CoinDetail? = null,
     val error : String = ""
 
 
