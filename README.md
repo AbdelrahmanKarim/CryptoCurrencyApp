@@ -1,8 +1,8 @@
-## 📲 CryptoPulse – Real-Time Cryptocurrency Tracker
+## 📲 CryptoCurrency – Real-Time Cryptocurrency Tracker
 
-**CryptoPulse** is a sleek and responsive Android application that allows users to explore real-time data for hundreds of cryptocurrencies. Built with **Kotlin** and **Jetpack Compose**, the app offers a seamless way to view market trends, check prices, and dive into detailed analytics for each coin.
+**CryptoCurrency** is a sleek and responsive Android application that allows users to explore real-time data for hundreds of cryptocurrencies. Built with **Kotlin** and **Jetpack Compose**, the app offers a seamless way to view market trends, check prices, and dive into detailed analytics for each coin.
 
-Whether you're a crypto enthusiast, investor, or just curious, CryptoPulse makes it easy to stay informed—anytime, anywhere.
+Whether you're a crypto enthusiast, investor, or just curious, CryptoCurrency makes it easy to stay informed—anytime, anywhere.
 
 ---
 
